@@ -3,3 +3,12 @@
 ################################################################################
 
 /Api/bin/Debug/netcoreapp3.1
+/Api/obj
+/Core/bin/Debug/netcoreapp3.1
+/Core/obj
+/Data/bin/Debug/netcoreapp3.1
+/Data/obj/Debug/netcoreapp3.1
+/Data/obj
+/Test/bin/Debug/netcoreapp3.1
+/Test/obj
+/.vs/EmailCampaign/v16/TestStore/0
